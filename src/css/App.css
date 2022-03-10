@@ -1,0 +1,94 @@
+/*In the next folder we will create all the design we want to be displayed to the customer while using our site */
+.App {
+  font-family: "Times New Roman", Times, serif;
+  text-align: left;
+  font-size: 20px;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+  color: rgb(245, 7, 7);
+  font-weight: 300;
+  margin-bottom: 15px;
+}
+
+h4 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  color: rgb(8, 8, 8);
+}
+
+span {
+  font-family: "Times New Roman", Times, serif;
+  color: rgba(255, 255, 255, 0.822);
+  padding: 6px;
+}
+
+.spanLogin {
+  font-family: "Times New Roman", Times, serif;
+  color: #fff;
+  padding: 6px;
+}
+
+button {
+  color: rgb(255, 255, 255);
+  background-color: rgba(38, 46, 32, 0.836);
+  padding: 15px;
+  border-radius: 10px;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.loginPage {
+  background-color: rgb(0, 0, 0);
+  padding-left: 40%;
+  width: 100%;
+}
+
+.mainComp {
+  background-color: rgba(118, 125, 146, 0.664);
+  margin: 1px;
+  padding: 1px;
+}
+
+.loginBth {
+  background-color: rgba(6, 30, 241, 0.425);
+  font-family: "Times New Roman", Times, serif;
+  margin-right: 213px;
+}
+
+.editUser {
+  border: 3px white;
+  padding-left: 5px;
+  margin: 1px;
+}
+
+.searchInput {
+  border-radius: 10px;
+  width: 15%;
+  padding: 12px;
+  box-sizing: border-box;
+}
+
+.userComp {
+  padding: 10px;
+  border: 5px solid black;
+  margin: 4px;
+}
+
+.shows {
+  border: 2px solid black;
+  padding-left: 5px;
+  display: flex;
+  text-align: center;
+
+  padding: 5px;
+}
+
+.logOutBth {
+  background-color: rgba(240, 34, 34, 0.671);
+  border-radius: 6px;
+  margin-left: 60px;
+}
